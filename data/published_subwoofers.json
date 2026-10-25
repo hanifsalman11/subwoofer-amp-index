@@ -31,5 +31,38 @@
     "ported_cuft": 2.25,
     "tuning_hz": 31,
     "date": "2026-10-25"
+  },
+  {
+    "sub_name": "Skar Audio ZVX-15v2 D2 15-Inch SPL Subwoofer",
+    "slug": "skar-audio-zvx-15v2-d2-15-inch-spl-subwoofer-box-specs-amp-wire-calculator",
+    "title": "Skar Audio ZVX-15v2 D2 15-Inch SPL Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (3.5 cu ft @ 30 Hz), port area (49 sq in), monoblock amp RMS (1600W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the Skar Audio ZVX-15v2 D2 15-Inch SPL Subwoofer.",
+    "size_in": 15,
+    "rms_w": 1600,
+    "ported_cuft": 3.5,
+    "tuning_hz": 30,
+    "date": "2026-10-25"
+  },
+  {
+    "sub_name": "Sundown Audio SA-12 V.2 D2 12-Inch Subwoofer",
+    "slug": "sundown-audio-sa-12-v2-d2-12-inch-subwoofer-box-specs-amp-wire-calculator",
+    "title": "Sundown Audio SA-12 V.2 D2 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.75 cu ft @ 35 Hz), port area (24 sq in), monoblock amp RMS (1000W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Sundown Audio SA-12 V.2 D2 12-Inch Subwoofer.",
+    "size_in": 12,
+    "rms_w": 1000,
+    "ported_cuft": 1.75,
+    "tuning_hz": 35,
+    "date": "2026-10-25"
+  },
+  {
+    "sub_name": "Sundown Audio X-12 V.3 D2 12-Inch Ultra-Low Sub",
+    "slug": "sundown-audio-x-12-v3-d2-12-inch-ultra-low-sub-box-specs-amp-wire-calculator",
+    "title": "Sundown Audio X-12 V.3 D2 12-Inch Ultra-Low Sub Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (2.5 cu ft @ 32 Hz), port area (35 sq in), monoblock amp RMS (2000W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the Sundown Audio X-12 V.3 D2 12-Inch Ultra-Low Sub.",
+    "size_in": 12,
+    "rms_w": 2000,
+    "ported_cuft": 2.5,
+    "tuning_hz": 32,
+    "date": "2026-10-25"
   }
 ]
