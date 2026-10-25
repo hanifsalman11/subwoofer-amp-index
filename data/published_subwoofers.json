@@ -64,5 +64,38 @@
     "ported_cuft": 2.5,
     "tuning_hz": 32,
     "date": "2026-10-25"
+  },
+  {
+    "sub_name": "Sundown Audio E-12 V.4 D2 12-Inch Subwoofer",
+    "slug": "sundown-audio-e-12-v4-d2-12-inch-subwoofer-box-specs-amp-wire-calculator",
+    "title": "Sundown Audio E-12 V.4 D2 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.75 cu ft @ 32 Hz), port area (24 sq in), monoblock amp RMS (500W), and OFC wire gauge (8 AWG or 4 AWG 100% Oxygen-Free Copper (OFC)) for the Sundown Audio E-12 V.4 D2 12-Inch Subwoofer.",
+    "size_in": 12,
+    "rms_w": 500,
+    "ported_cuft": 1.75,
+    "tuning_hz": 32,
+    "date": "2026-10-25"
+  },
+  {
+    "sub_name": "JL Audio 12W7AE-3 12-Inch Anniversary Subwoofer",
+    "slug": "jl-audio-12w7ae-3-12-inch-anniversary-subwoofer-box-specs-amp-wire-calculator",
+    "title": "JL Audio 12W7AE-3 12-Inch Anniversary Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.75 cu ft @ 32 Hz), port area (24 sq in), monoblock amp RMS (1000W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the JL Audio 12W7AE-3 12-Inch Anniversary Subwoofer.",
+    "size_in": 12,
+    "rms_w": 1000,
+    "ported_cuft": 1.75,
+    "tuning_hz": 32,
+    "date": "2026-10-25"
+  },
+  {
+    "sub_name": "JL Audio 12W3v3-4 12-Inch Car Subwoofer",
+    "slug": "jl-audio-12w3v3-4-12-inch-car-subwoofer-box-specs-amp-wire-calculator",
+    "title": "JL Audio 12W3v3-4 12-Inch Car Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.75 cu ft @ 30 Hz), port area (24 sq in), monoblock amp RMS (500W), and OFC wire gauge (8 AWG or 4 AWG 100% Oxygen-Free Copper (OFC)) for the JL Audio 12W3v3-4 12-Inch Car Subwoofer.",
+    "size_in": 12,
+    "rms_w": 500,
+    "ported_cuft": 1.75,
+    "tuning_hz": 30,
+    "date": "2026-10-25"
   }
 ]
