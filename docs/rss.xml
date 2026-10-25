@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BassBoxIndex Car Audio Subwoofer Enclosure & Amp Database</title>
+    <link>https://hanifsalman11.github.io/subwoofer-amp-index/</link>
+    <description>Interactive Subwoofer Box Volume, Port Tuning & Amplifier Wire Gauge Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/subwoofer-amp-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>Skar Audio VXF-12 D2 12-Inch Competition Sub Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/subwoofer-amp-index/skar-audio-vxf-12-d2-12-inch-competition-sub-box-specs-amp-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/subwoofer-amp-index/skar-audio-vxf-12-d2-12-inch-competition-sub-box-specs-amp-wire-calculator.html</guid>
+      <description>Calculate exact ported box volume (2.25 cu ft @ 31 Hz), port area (32 sq in), monoblock amp RMS (1500W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the Skar Audio VXF-12 D2 12-Inch Competition Sub.</description>
+    </item>
+    <item>
+      <title>Skar Audio SDR-12 D2 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/subwoofer-amp-index/skar-audio-sdr-12-d2-12-inch-subwoofer-box-specs-amp-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/subwoofer-amp-index/skar-audio-sdr-12-d2-12-inch-subwoofer-box-specs-amp-wire-calculator.html</guid>
+      <description>Calculate exact ported box volume (1.85 cu ft @ 34 Hz), port area (26 sq in), monoblock amp RMS (600W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Skar Audio SDR-12 D2 12-Inch Subwoofer.</description>
+    </item>
+    <item>
+      <title>Skar Audio EVL-12 D2 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/subwoofer-amp-index/skar-audio-evl-12-d2-12-inch-subwoofer-box-specs-amp-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/subwoofer-amp-index/skar-audio-evl-12-d2-12-inch-subwoofer-box-specs-amp-wire-calculator.html</guid>
+      <description>Calculate exact ported box volume (2.0 cu ft @ 32 Hz), port area (28 sq in), monoblock amp RMS (1250W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the Skar Audio EVL-12 D2 12-Inch Subwoofer.</description>
+    </item>
+  </channel>
+</rss>

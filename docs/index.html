@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BassBoxIndex — Subwoofer Box Volume, Port Tuning & Amp Wire Calculator (2026)</title>
+  <meta name="description" content="Calculate exact ported and sealed subwoofer box cubic feet, Helmholtz slot port length, multimeter gain voltage, and 1/0 AWG OFC wire size for Skar, Sundown, JL Audio, Kicker, and Rockford Fosgate subwoofers.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/subwoofer-amp-index/">
+  <link rel="alternate" type="application/rss+xml" title="BassBoxIndex RSS Feed" href="https://hanifsalman11.github.io/subwoofer-amp-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col">
+  <header class="border-b border-zinc-800 bg-zinc-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-fuchsia-500 text-zinc-950 px-2 py-0.5 rounded font-black">BASS</span>BoxIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=1%2BOhm%2BStable%2BClass%2BD%2BMonoblock%2BSubwoofer%2BAmplifier%2BOFC%2BWiring%2BKit&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-fuchsia-500 hover:bg-fuchsia-400 text-zinc-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Monoblock Amps & Subwoofer Boxes on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Subwoofer Box Volume, Port Tuning & Amp Wire Database</h1>
+      <p class="text-zinc-400 mt-3 text-base sm:text-lg">Select your subwoofer model below to calculate net ported/sealed cubic feet ($V_b$), slot port dimensions ($F_b$), multimeter AC gain voltage, and 100% OFC wire gauge.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search subwoofer model (e.g. Skar EVL-12, Sundown SA-12, JL Audio 12W7, Kicker CompR, Rockford P3...)" class="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-fuchsia-500">
+      </div>
+    </div>
+
+    <div id="subGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="skar-audio-vxf-12-d2-12-inch-competition-sub-box-specs-amp-wire-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-fuchsia-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-fuchsia-500 text-zinc-950 px-2.5 py-0.5 rounded">1,500W RMS (12")</span>
+            <span class="text-xs text-zinc-400">2.25 ft³ @ 31 Hz</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-fuchsia-400 transition">Skar Audio VXF-12 D2 12-Inch Competition Sub Box & Amp Calculator</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact ported box volume (2.25 cu ft @ 31 Hz), port area (32 sq in), monoblock amp RMS (1500W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the Skar Audio VXF-12 D2 12-Inch Competition Sub.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-fuchsia-400">Calculate Box Volume, Port & Amp Wire →</span>
+        </a>
+        <a href="skar-audio-sdr-12-d2-12-inch-subwoofer-box-specs-amp-wire-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-fuchsia-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-fuchsia-500 text-zinc-950 px-2.5 py-0.5 rounded">600W RMS (12")</span>
+            <span class="text-xs text-zinc-400">1.85 ft³ @ 34 Hz</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-fuchsia-400 transition">Skar Audio SDR-12 D2 12-Inch Subwoofer Box & Amp Calculator</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact ported box volume (1.85 cu ft @ 34 Hz), port area (26 sq in), monoblock amp RMS (600W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Skar Audio SDR-12 D2 12-Inch Subwoofer.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-fuchsia-400">Calculate Box Volume, Port & Amp Wire →</span>
+        </a>
+        <a href="skar-audio-evl-12-d2-12-inch-subwoofer-box-specs-amp-wire-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-fuchsia-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-fuchsia-500 text-zinc-950 px-2.5 py-0.5 rounded">1,250W RMS (12")</span>
+            <span class="text-xs text-zinc-400">2.0 ft³ @ 32 Hz</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-fuchsia-400 transition">Skar Audio EVL-12 D2 12-Inch Subwoofer Box & Amp Calculator</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact ported box volume (2.0 cu ft @ 32 Hz), port area (28 sq in), monoblock amp RMS (1250W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the Skar Audio EVL-12 D2 12-Inch Subwoofer.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-fuchsia-400">Calculate Box Volume, Port & Amp Wire →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-zinc-800 py-8 text-center text-xs text-zinc-500">
+    <p>© 2026 BassBoxIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('subGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
