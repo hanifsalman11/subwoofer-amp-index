@@ -97,5 +97,38 @@
     "ported_cuft": 1.75,
     "tuning_hz": 30,
     "date": "2026-10-25"
+  },
+  {
+    "sub_name": "JL Audio 10TW3-D4 10-Inch Shallow-Mount Subwoofer",
+    "slug": "jl-audio-10tw3-d4-10-inch-shallow-mount-subwoofer-box-specs-amp-wire-calculator",
+    "title": "JL Audio 10TW3-D4 10-Inch Shallow-Mount Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (0.6 cu ft @ 35 Hz), port area (8 sq in), monoblock amp RMS (400W), and OFC wire gauge (8 AWG or 4 AWG 100% Oxygen-Free Copper (OFC)) for the JL Audio 10TW3-D4 10-Inch Shallow-Mount Subwoofer.",
+    "size_in": 10,
+    "rms_w": 400,
+    "ported_cuft": 0.6,
+    "tuning_hz": 35,
+    "date": "2026-10-26"
+  },
+  {
+    "sub_name": "Kicker CompR 12 (48CWR122) 12-Inch Subwoofer",
+    "slug": "kicker-compr-12-48cwr122-12-inch-subwoofer-box-specs-amp-wire-calculator",
+    "title": "Kicker CompR 12 (48CWR122) 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.75 cu ft @ 35 Hz), port area (24 sq in), monoblock amp RMS (500W), and OFC wire gauge (8 AWG or 4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker CompR 12 (48CWR122) 12-Inch Subwoofer.",
+    "size_in": 12,
+    "rms_w": 500,
+    "ported_cuft": 1.75,
+    "tuning_hz": 35,
+    "date": "2026-10-26"
+  },
+  {
+    "sub_name": "Kicker Solo-Baric L7S 12 (44L7S122) Square Sub",
+    "slug": "kicker-solo-baric-l7s-12-44l7s122-square-sub-box-specs-amp-wire-calculator",
+    "title": "Kicker Solo-Baric L7S 12 (44L7S122) Square Sub Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (2.25 cu ft @ 34 Hz), port area (32 sq in), monoblock amp RMS (750W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker Solo-Baric L7S 12 (44L7S122) Square Sub.",
+    "size_in": 12,
+    "rms_w": 750,
+    "ported_cuft": 2.25,
+    "tuning_hz": 34,
+    "date": "2026-10-26"
   }
 ]
