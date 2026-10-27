@@ -229,5 +229,38 @@
     "ported_cuft": 1.85,
     "tuning_hz": 34,
     "date": "2026-10-27"
+  },
+  {
+    "sub_name": "Deaf Bonce Machete MF-12R D2 12-Inch Subwoofer",
+    "slug": "deaf-bonce-machete-mf-12r-d2-12-inch-subwoofer-box-specs-amp-wire-calculator",
+    "title": "Deaf Bonce Machete MF-12R D2 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (2.0 cu ft @ 33 Hz), port area (28 sq in), monoblock amp RMS (1200W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the Deaf Bonce Machete MF-12R D2 12-Inch Subwoofer.",
+    "size_in": 12,
+    "rms_w": 1200,
+    "ported_cuft": 2.0,
+    "tuning_hz": 33,
+    "date": "2026-10-27"
+  },
+  {
+    "sub_name": "NVX VCW122 Version 3 12-Inch Subwoofer",
+    "slug": "nvx-vcw122-version-3-12-inch-subwoofer-box-specs-amp-wire-calculator",
+    "title": "NVX VCW122 Version 3 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (1000W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the NVX VCW122 Version 3 12-Inch Subwoofer.",
+    "size_in": 12,
+    "rms_w": 1000,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-27"
+  },
+  {
+    "sub_name": "American Bass XR-12D2 12-Inch Competition Sub",
+    "slug": "american-bass-xr-12d2-12-inch-competition-sub-box-specs-amp-wire-calculator",
+    "title": "American Bass XR-12D2 12-Inch Competition Sub Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (2.0 cu ft @ 34 Hz), port area (28 sq in), monoblock amp RMS (1200W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the American Bass XR-12D2 12-Inch Competition Sub.",
+    "size_in": 12,
+    "rms_w": 1200,
+    "ported_cuft": 2.0,
+    "tuning_hz": 34,
+    "date": "2026-10-27"
   }
 ]
