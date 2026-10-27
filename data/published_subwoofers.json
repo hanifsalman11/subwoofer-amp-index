@@ -196,5 +196,38 @@
     "ported_cuft": 1.8,
     "tuning_hz": 34,
     "date": "2026-10-26"
+  },
+  {
+    "sub_name": "CT Sounds Ozone-12 D2 12-Inch Subwoofer",
+    "slug": "ct-sounds-ozone-12-d2-12-inch-subwoofer-box-specs-amp-wire-calculator",
+    "title": "CT Sounds Ozone-12 D2 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (2.0 cu ft @ 33 Hz), port area (28 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the CT Sounds Ozone-12 D2 12-Inch Subwoofer.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 2.0,
+    "tuning_hz": 33,
+    "date": "2026-10-27"
+  },
+  {
+    "sub_name": "CT Sounds Meso-12 D2 12-Inch Competition Sub",
+    "slug": "ct-sounds-meso-12-d2-12-inch-competition-sub-box-specs-amp-wire-calculator",
+    "title": "CT Sounds Meso-12 D2 12-Inch Competition Sub Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (2.25 cu ft @ 32 Hz), port area (32 sq in), monoblock amp RMS (1500W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the CT Sounds Meso-12 D2 12-Inch Competition Sub.",
+    "size_in": 12,
+    "rms_w": 1500,
+    "ported_cuft": 2.25,
+    "tuning_hz": 32,
+    "date": "2026-10-27"
+  },
+  {
+    "sub_name": "Deaf Bonce Apocalypse DB-SA252 D2 12-Inch Sub",
+    "slug": "deaf-bonce-apocalypse-db-sa252-d2-12-inch-sub-box-specs-amp-wire-calculator",
+    "title": "Deaf Bonce Apocalypse DB-SA252 D2 12-Inch Sub Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 34 Hz), port area (26 sq in), monoblock amp RMS (1000W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Deaf Bonce Apocalypse DB-SA252 D2 12-Inch Sub.",
+    "size_in": 12,
+    "rms_w": 1000,
+    "ported_cuft": 1.85,
+    "tuning_hz": 34,
+    "date": "2026-10-27"
   }
 ]
