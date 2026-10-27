@@ -262,5 +262,38 @@
     "ported_cuft": 2.0,
     "tuning_hz": 34,
     "date": "2026-10-27"
+  },
+  {
+    "sub_name": "American Bass XFL-1222 12-Inch SPL Subwoofer",
+    "slug": "american-bass-xfl-1222-12-inch-spl-subwoofer-box-specs-amp-wire-calculator",
+    "title": "American Bass XFL-1222 12-Inch SPL Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (2.25 cu ft @ 33 Hz), port area (32 sq in), monoblock amp RMS (1500W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the American Bass XFL-1222 12-Inch SPL Subwoofer.",
+    "size_in": 12,
+    "rms_w": 1500,
+    "ported_cuft": 2.25,
+    "tuning_hz": 33,
+    "date": "2026-10-27"
+  },
+  {
+    "sub_name": "Digital Designs DD Audio 612f 12-Inch Subwoofer",
+    "slug": "digital-designs-dd-audio-612f-12-inch-subwoofer-box-specs-amp-wire-calculator",
+    "title": "Digital Designs DD Audio 612f 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (2.0 cu ft @ 34 Hz), port area (28 sq in), monoblock amp RMS (1000W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Digital Designs DD Audio 612f 12-Inch Subwoofer.",
+    "size_in": 12,
+    "rms_w": 1000,
+    "ported_cuft": 2.0,
+    "tuning_hz": 34,
+    "date": "2026-10-27"
+  },
+  {
+    "sub_name": "DC Audio Level 3 12-Inch M3 Subwoofer",
+    "slug": "dc-audio-level-3-12-inch-m3-subwoofer-box-specs-amp-wire-calculator",
+    "title": "DC Audio Level 3 12-Inch M3 Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.75 cu ft @ 34 Hz), port area (24 sq in), monoblock amp RMS (900W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the DC Audio Level 3 12-Inch M3 Subwoofer.",
+    "size_in": 12,
+    "rms_w": 900,
+    "ported_cuft": 1.75,
+    "tuning_hz": 34,
+    "date": "2026-10-27"
   }
 ]
