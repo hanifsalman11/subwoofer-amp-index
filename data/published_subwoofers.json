@@ -361,5 +361,38 @@
     "ported_cuft": 1.85,
     "tuning_hz": 33,
     "date": "2026-10-28"
+  },
+  {
+    "sub_name": "Jl Audio 8W7",
+    "slug": "jl-audio-8w7-box-specs-amp-wire-calculator",
+    "title": "Jl Audio 8W7 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Jl Audio 8W7.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-28"
+  },
+  {
+    "sub_name": "Jl Audio 13W7",
+    "slug": "jl-audio-13w7-box-specs-amp-wire-calculator",
+    "title": "Jl Audio 13W7 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Jl Audio 13W7.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-28"
+  },
+  {
+    "sub_name": "Jl Audio 12W6",
+    "slug": "jl-audio-12w6-box-specs-amp-wire-calculator",
+    "title": "Jl Audio 12W6 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Jl Audio 12W6.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-28"
   }
 ]
