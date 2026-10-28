@@ -295,5 +295,38 @@
     "ported_cuft": 1.75,
     "tuning_hz": 34,
     "date": "2026-10-27"
+  },
+  {
+    "sub_name": "Orion HCCA 122 12-Inch Competition Subwoofer",
+    "slug": "orion-hcca-122-12-inch-competition-subwoofer-box-specs-amp-wire-calculator",
+    "title": "Orion HCCA 122 12-Inch Competition Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (2.5 cu ft @ 32 Hz), port area (35 sq in), monoblock amp RMS (2500W), and OFC wire gauge (1/0 AWG 100% Oxygen-Free Copper (OFC)) for the Orion HCCA 122 12-Inch Competition Subwoofer.",
+    "size_in": 12,
+    "rms_w": 2500,
+    "ported_cuft": 2.5,
+    "tuning_hz": 32,
+    "date": "2026-10-28"
+  },
+  {
+    "sub_name": "MTX Audio Terminator TNE212D Dual 12-Inch Setup",
+    "slug": "mtx-audio-terminator-tne212d-dual-12-inch-setup-box-specs-amp-wire-calculator",
+    "title": "MTX Audio Terminator TNE212D Dual 12-Inch Setup Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (2.4 cu ft @ 36 Hz), port area (34 sq in), monoblock amp RMS (400W), and OFC wire gauge (8 AWG or 4 AWG 100% Oxygen-Free Copper (OFC)) for the MTX Audio Terminator TNE212D Dual 12-Inch Setup.",
+    "size_in": 12,
+    "rms_w": 400,
+    "ported_cuft": 2.4,
+    "tuning_hz": 36,
+    "date": "2026-10-28"
+  },
+  {
+    "sub_name": "Skar Audio VD-10 D2 10-Inch Shallow Truck Sub",
+    "slug": "skar-audio-vd-10-d2-10-inch-shallow-truck-sub-box-specs-amp-wire-calculator",
+    "title": "Skar Audio VD-10 D2 10-Inch Shallow Truck Sub Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.25 cu ft @ 36 Hz), port area (18 sq in), monoblock amp RMS (500W), and OFC wire gauge (8 AWG or 4 AWG 100% Oxygen-Free Copper (OFC)) for the Skar Audio VD-10 D2 10-Inch Shallow Truck Sub.",
+    "size_in": 10,
+    "rms_w": 500,
+    "ported_cuft": 1.25,
+    "tuning_hz": 36,
+    "date": "2026-10-28"
   }
 ]
