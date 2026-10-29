@@ -427,5 +427,38 @@
     "ported_cuft": 1.85,
     "tuning_hz": 33,
     "date": "2026-10-29"
+  },
+  {
+    "sub_name": "Jl Audio 12W3V3",
+    "slug": "jl-audio-12w3v3-box-specs-amp-wire-calculator",
+    "title": "Jl Audio 12W3V3 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Jl Audio 12W3V3.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-29"
+  },
+  {
+    "sub_name": "Jl Audio 12W6V2",
+    "slug": "jl-audio-12w6v2-box-specs-amp-wire-calculator",
+    "title": "Jl Audio 12W6V2 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Jl Audio 12W6V2.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-29"
+  },
+  {
+    "sub_name": "Kicker Comp R",
+    "slug": "kicker-comp-r-box-specs-amp-wire-calculator",
+    "title": "Kicker Comp R Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker Comp R.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-29"
   }
 ]
