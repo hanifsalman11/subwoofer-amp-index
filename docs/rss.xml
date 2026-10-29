@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/subwoofer-amp-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Kicker Comp R 8 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/subwoofer-amp-index/kicker-comp-r-8-box-specs-amp-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/subwoofer-amp-index/kicker-comp-r-8-box-specs-amp-wire-calculator.html</guid>
+      <description>Calculate exact ported box volume (0.85 cu ft @ 33 Hz), port area (12 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker Comp R 8.</description>
+    </item>
+    <item>
+      <title>Kicker Comp R 10 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/subwoofer-amp-index/kicker-comp-r-10-box-specs-amp-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/subwoofer-amp-index/kicker-comp-r-10-box-specs-amp-wire-calculator.html</guid>
+      <description>Calculate exact ported box volume (1.35 cu ft @ 33 Hz), port area (19 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker Comp R 10.</description>
+    </item>
+    <item>
+      <title>Kicker Comp R 12 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/subwoofer-amp-index/kicker-comp-r-12-box-specs-amp-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/subwoofer-amp-index/kicker-comp-r-12-box-specs-amp-wire-calculator.html</guid>
+      <description>Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker Comp R 12.</description>
+    </item>
+    <item>
       <title>Kicker Comp R Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/subwoofer-amp-index/kicker-comp-r-box-specs-amp-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/subwoofer-amp-index/kicker-comp-r-box-specs-amp-wire-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/subwoofer-amp-index/alpine-r-series-r2-w12d4-12-inch-halo-subwoofer-box-specs-amp-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/subwoofer-amp-index/alpine-r-series-r2-w12d4-12-inch-halo-subwoofer-box-specs-amp-wire-calculator.html</guid>
       <description>Calculate exact ported box volume (1.5 cu ft @ 33 Hz), port area (21 sq in), monoblock amp RMS (750W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Alpine R-Series R2-W12D4 12-Inch Halo Subwoofer.</description>
-    </item>
-    <item>
-      <title>Rockford Fosgate Power T1D212 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/subwoofer-amp-index/rockford-fosgate-power-t1d212-12-inch-subwoofer-box-specs-amp-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/subwoofer-amp-index/rockford-fosgate-power-t1d212-12-inch-subwoofer-box-specs-amp-wire-calculator.html</guid>
-      <description>Calculate exact ported box volume (1.75 cu ft @ 34 Hz), port area (24 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Rockford Fosgate Power T1D212 12-Inch Subwoofer.</description>
-    </item>
-    <item>
-      <title>Rockford Fosgate Punch P3D4-12 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/subwoofer-amp-index/rockford-fosgate-punch-p3d4-12-12-inch-subwoofer-box-specs-amp-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/subwoofer-amp-index/rockford-fosgate-punch-p3d4-12-12-inch-subwoofer-box-specs-amp-wire-calculator.html</guid>
-      <description>Calculate exact ported box volume (1.79 cu ft @ 35 Hz), port area (25 sq in), monoblock amp RMS (600W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Rockford Fosgate Punch P3D4-12 12-Inch Subwoofer.</description>
-    </item>
-    <item>
-      <title>Kicker CompVR 12 (43CVR124) 12-Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/subwoofer-amp-index/kicker-compvr-12-43cvr124-12-inch-subwoofer-box-specs-amp-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/subwoofer-amp-index/kicker-compvr-12-43cvr124-12-inch-subwoofer-box-specs-amp-wire-calculator.html</guid>
-      <description>Calculate exact ported box volume (1.75 cu ft @ 35 Hz), port area (24 sq in), monoblock amp RMS (400W), and OFC wire gauge (8 AWG or 4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker CompVR 12 (43CVR124) 12-Inch Subwoofer.</description>
     </item>
   </channel>
 </rss>

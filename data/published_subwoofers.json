@@ -460,5 +460,38 @@
     "ported_cuft": 1.85,
     "tuning_hz": 33,
     "date": "2026-10-29"
+  },
+  {
+    "sub_name": "Kicker Comp R 12",
+    "slug": "kicker-comp-r-12-box-specs-amp-wire-calculator",
+    "title": "Kicker Comp R 12 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker Comp R 12.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-29"
+  },
+  {
+    "sub_name": "Kicker Comp R 10",
+    "slug": "kicker-comp-r-10-box-specs-amp-wire-calculator",
+    "title": "Kicker Comp R 10 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.35 cu ft @ 33 Hz), port area (19 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker Comp R 10.",
+    "size_in": 10,
+    "rms_w": 800,
+    "ported_cuft": 1.35,
+    "tuning_hz": 33,
+    "date": "2026-10-29"
+  },
+  {
+    "sub_name": "Kicker Comp R 8",
+    "slug": "kicker-comp-r-8-box-specs-amp-wire-calculator",
+    "title": "Kicker Comp R 8 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (0.85 cu ft @ 33 Hz), port area (12 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker Comp R 8.",
+    "size_in": 8,
+    "rms_w": 800,
+    "ported_cuft": 0.85,
+    "tuning_hz": 33,
+    "date": "2026-10-29"
   }
 ]
