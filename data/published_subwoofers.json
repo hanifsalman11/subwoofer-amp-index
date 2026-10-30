@@ -526,5 +526,38 @@
     "ported_cuft": 1.85,
     "tuning_hz": 33,
     "date": "2026-10-30"
+  },
+  {
+    "sub_name": "Subwoofer   With Cut Sheet Pdf",
+    "slug": "subwoofer-with-cut-sheet-pdf-box-specs-amp-wire-calculator",
+    "title": "Subwoofer   With Cut Sheet Pdf Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Subwoofer   With Cut Sheet Pdf.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-30"
+  },
+  {
+    "sub_name": "Speaker   With Passive Radiator",
+    "slug": "speaker-with-passive-radiator-box-specs-amp-wire-calculator",
+    "title": "Speaker   With Passive Radiator Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Speaker   With Passive Radiator.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-30"
+  },
+  {
+    "sub_name": "Car Subwoofer   With Cut Sheet",
+    "slug": "car-subwoofer-with-cut-sheet-box-specs-amp-wire-calculator",
+    "title": "Car Subwoofer   With Cut Sheet Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Car Subwoofer   With Cut Sheet.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-30"
   }
 ]
