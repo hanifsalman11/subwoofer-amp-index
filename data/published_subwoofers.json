@@ -493,5 +493,38 @@
     "ported_cuft": 0.85,
     "tuning_hz": 33,
     "date": "2026-10-29"
+  },
+  {
+    "sub_name": "Kicker Comp R 15",
+    "slug": "kicker-comp-r-15-box-specs-amp-wire-calculator",
+    "title": "Kicker Comp R 15 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (3.25 cu ft @ 33 Hz), port area (46 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker Comp R 15.",
+    "size_in": 15,
+    "rms_w": 800,
+    "ported_cuft": 3.25,
+    "tuning_hz": 33,
+    "date": "2026-10-30"
+  },
+  {
+    "sub_name": "Kicker Comp R Dual 12",
+    "slug": "kicker-comp-r-dual-12-box-specs-amp-wire-calculator",
+    "title": "Kicker Comp R Dual 12 Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Kicker Comp R Dual 12.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-30"
+  },
+  {
+    "sub_name": "Subwoofer   With Cut Sheet",
+    "slug": "subwoofer-with-cut-sheet-box-specs-amp-wire-calculator",
+    "title": "Subwoofer   With Cut Sheet Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the Subwoofer   With Cut Sheet.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-30"
   }
 ]
