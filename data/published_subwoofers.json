@@ -559,5 +559,27 @@
     "ported_cuft": 1.85,
     "tuning_hz": 33,
     "date": "2026-10-30"
+  },
+  {
+    "sub_name": "How To Calculate Subwoofer",
+    "slug": "how-to-calculate-subwoofer-box-specs-amp-wire-calculator",
+    "title": "How To Calculate Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the How To Calculate Subwoofer.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-30"
+  },
+  {
+    "sub_name": "What   Do I Need For A 12 Inch Subwoofer",
+    "slug": "what-do-i-need-for-a-12-inch-subwoofer-box-specs-amp-wire-calculator",
+    "title": "What   Do I Need For A 12 Inch Subwoofer Box Specs, Port Tuning (Hz) & Amp Wire Calculator (2026)",
+    "description": "Calculate exact ported box volume (1.85 cu ft @ 33 Hz), port area (26 sq in), monoblock amp RMS (800W), and OFC wire gauge (4 AWG 100% Oxygen-Free Copper (OFC)) for the What   Do I Need For A 12 Inch Subwoofer.",
+    "size_in": 12,
+    "rms_w": 800,
+    "ported_cuft": 1.85,
+    "tuning_hz": 33,
+    "date": "2026-10-30"
   }
 ]
